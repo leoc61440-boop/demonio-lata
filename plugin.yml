@@ -1,0 +1,11 @@
+name: DemonioLata
+main: leoc61440.demonioLata.DemonioLataPlugin
+version: 1.0
+api-version: 1.17
+commands:
+  demonio:
+    description: "Description for demonio command"
+    permission: demonio.admin
+  patearlata:
+    description: "Description for patearlata command"
+    permission: demonio.play
