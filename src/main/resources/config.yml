@@ -1,0 +1,10 @@
+minPlayers: 3
+capture_required: 5
+ensure_one_free: true
+demon_walk_timeout: 45
+hunt_duration: 900
+capture_distance: 2.5
+bossbar_color: RED
+final_title: "¡JUEGO TERMINADO!"
+final_chat_survivors: "todos viven."
+final_chat_demon: "El demonio ha ganado."
